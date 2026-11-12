@@ -62,9 +62,18 @@ Every step is resumable: each one records what it has finished and skips it on t
 
 Requirements: Node 20+, a [Google AI Studio](https://aistudio.google.com/) API key, a free [Upstash Vector](https://upstash.com/docs/vector) index (768 dimensions, cosine), and [`yt-dlp`](https://github.com/yt-dlp/yt-dlp) on your PATH for ingesting.
 
+Create a file named `.env.local` in the project root with these three values:
+
+```
+GOOGLE_GENERATIVE_AI_API_KEY=
+UPSTASH_VECTOR_REST_URL=
+UPSTASH_VECTOR_REST_TOKEN=
+```
+
+Then:
+
 ```bash
 npm install
-cp .env.example .env.local     # fill in the three values
 
 npm run ingest                 # fetch videos → transcripts → metadata → embeddings
 npm run dev                    # http://localhost:3000
