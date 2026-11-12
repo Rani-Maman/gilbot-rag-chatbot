@@ -34,3 +34,7 @@ data/embed_progress.json
 # local tooling and junk
 .claude/
 /nul
+
+# env files
+.env
+.env.*
