@@ -1,0 +1,43 @@
+{
+  "name": "gilbot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "ingest:videos": "tsx scripts/01-fetch-video-ids.ts",
+    "ingest:transcripts": "tsx scripts/02-fetch-transcripts.ts",
+    "ingest:metadata": "tsx scripts/03-extract-metadata.ts",
+    "ingest:embeddings": "tsx scripts/04-generate-embeddings.ts",
+    "ingest": "tsx scripts/01-fetch-video-ids.ts && tsx scripts/02-fetch-transcripts.ts && tsx scripts/03-extract-metadata.ts && tsx scripts/04-generate-embeddings.ts"
+  },
+  "dependencies": {
+    "@ai-sdk/google": "^3.0.30",
+    "@ai-sdk/react": "^3.0.99",
+    "@tailwindcss/postcss": "^4.2.0",
+    "@upstash/vector": "^1.2.2",
+    "ai": "^6.0.97",
+    "dotenv": "^17.3.1",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.24",
+    "eslint": "^9.39.3",
+    "eslint-config-next": "^16.1.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.2.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3",
+    "youtube-transcript": "^1.2.1"
+  }
+}

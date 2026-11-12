@@ -1,0 +1,302 @@
+[
+  {
+    "videoId": "-eMM9Vc-Zas",
+    "title": "\"Central Asia\" - a delight at the Hapoalim restaurant",
+    "restaurantName": "מרכז אסיה",
+    "grade": 7.5,
+    "cuisine": "בוכרי",
+    "location": "שכונת שפירה",
+    "videoUrl": "https://www.youtube.com/watch?v=-eMM9Vc-Zas",
+    "isReview": true
+  },
+  {
+    "videoId": "4VH1HXZ3Awk",
+    "title": "War: Holstein opened right up against GBD. And the winner?",
+    "restaurantName": "Holstein",
+    "grade": 6,
+    "cuisine": "Burger",
+    "location": "Tel Aviv",
+    "videoUrl": "https://www.youtube.com/watch?v=4VH1HXZ3Awk",
+    "isReview": true
+  },
+  {
+    "videoId": "7GskLU9AwGI",
+    "title": "How much is the price for the \"Roof Top\" restaurant with the pool?",
+    "restaurantName": "Roof Top",
+    "grade": 7.5,
+    "cuisine": null,
+    "location": "Tel Aviv",
+    "videoUrl": "https://www.youtube.com/watch?v=7GskLU9AwGI",
+    "isReview": true
+  },
+  {
+    "videoId": "7_b6SvkY1OY",
+    "title": "�������� - ������ ��������� ������ �������",
+    "restaurantName": "ג'רונימו",
+    "grade": 7,
+    "cuisine": "המבורגר",
+    "location": "קריית גת",
+    "videoUrl": "https://www.youtube.com/watch?v=7_b6SvkY1OY",
+    "isReview": true
+  },
+  {
+    "videoId": "9Fzf0cBTaQE",
+    "title": "This is the worst dish I have ever eaten.",
+    "restaurantName": "433",
+    "grade": 3,
+    "cuisine": "Asian",
+    "location": "Tel Aviv",
+    "videoUrl": "https://www.youtube.com/watch?v=9Fzf0cBTaQE",
+    "isReview": true
+  },
+  {
+    "videoId": "as81QoVUIGc",
+    "title": "Ms. Kotai at the Carmel Market - the excellent Thai who burned my tongue",
+    "restaurantName": "Ms. Kotai",
+    "grade": 8,
+    "cuisine": "Thai",
+    "location": "Carmel Market",
+    "videoUrl": "https://www.youtube.com/watch?v=as81QoVUIGc",
+    "isReview": true
+  },
+  {
+    "videoId": "bKtXqtMMGJ4",
+    "title": "������: ������ �� �����",
+    "restaurantName": "המאשנה בבריסקט",
+    "grade": 6.5,
+    "cuisine": "בשרים מאושנים",
+    "location": "חדרה",
+    "videoUrl": "https://www.youtube.com/watch?v=bKtXqtMMGJ4",
+    "isReview": true
+  },
+  {
+    "videoId": "c6N4GzPv9Os",
+    "title": "How long have I been waiting for such a surprise: Dilek Turkish Bistro",
+    "restaurantName": "Dilek Turkish Bistro",
+    "grade": 8.5,
+    "cuisine": "Turkish",
+    "location": "Shikun Hatikva",
+    "videoUrl": "https://www.youtube.com/watch?v=c6N4GzPv9Os",
+    "isReview": true
+  },
+  {
+    "videoId": "CnY-kJb-SFY",
+    "title": "Local: This is a real shame for a hamburger",
+    "restaurantName": "Local",
+    "grade": 4,
+    "cuisine": "Hamburger",
+    "location": "Tel Aviv",
+    "videoUrl": "https://www.youtube.com/watch?v=CnY-kJb-SFY",
+    "isReview": true
+  },
+  {
+    "videoId": "DeikxeQqHio",
+    "title": "������ ������ �� ���� - ���������",
+    "restaurantName": "המלון הזה",
+    "grade": 9,
+    "cuisine": "French",
+    "location": "Jaffa",
+    "videoUrl": "https://www.youtube.com/watch?v=DeikxeQqHio",
+    "isReview": true
+  },
+  {
+    "videoId": "EwBIafQ8It4",
+    "title": "������ �� ������ ��� ��� ���� - ������",
+    "restaurantName": "תמרלין",
+    "grade": 9,
+    "cuisine": "בשר",
+    "location": "תל אביב",
+    "videoUrl": "https://www.youtube.com/watch?v=EwBIafQ8It4",
+    "isReview": true
+  },
+  {
+    "videoId": "FPLII5H6UgU",
+    "title": "���� ���: ����� ����� - ��� ������",
+    "restaurantName": "גרילום",
+    "grade": 8,
+    "cuisine": "בשר",
+    "location": "ירושלמי",
+    "videoUrl": "https://www.youtube.com/watch?v=FPLII5H6UgU",
+    "isReview": true
+  },
+  {
+    "videoId": "GMTnxSZEFeE",
+    "title": "Turquoise Cafe - the surprise at Big Fashion Glilot",
+    "restaurantName": "Turquoise Cafe",
+    "grade": 8,
+    "cuisine": null,
+    "location": "Big Fashion Glilot",
+    "videoUrl": "https://www.youtube.com/watch?v=GMTnxSZEFeE",
+    "isReview": true
+  },
+  {
+    "videoId": "mTjWOluY_cY",
+    "title": "The worst ever restaurant",
+    "restaurantName": "אושפולוג",
+    "grade": 5,
+    "cuisine": "בוחרים",
+    "location": "יהודה לוי",
+    "videoUrl": "https://www.youtube.com/watch?v=mTjWOluY_cY",
+    "isReview": true
+  },
+  {
+    "videoId": "nU5LvhafYtA",
+    "title": "Gorilla: The restaurant that tried to impress - and failed",
+    "restaurantName": "Gorilla",
+    "grade": 5,
+    "cuisine": null,
+    "location": null,
+    "videoUrl": "https://www.youtube.com/watch?v=nU5LvhafYtA",
+    "isReview": true
+  },
+  {
+    "videoId": "oos9hqoOIhw",
+    "title": "The skewer that made me laugh",
+    "restaurantName": "על אשכון",
+    "grade": 6.5,
+    "cuisine": null,
+    "location": "מודיעין",
+    "videoUrl": "https://www.youtube.com/watch?v=oos9hqoOIhw",
+    "isReview": true
+  },
+  {
+    "videoId": "O_ZvcrnLQPg",
+    "title": "How much is the chef's skewers index?",
+    "restaurantName": "שיפודי גבריאל",
+    "grade": 7,
+    "cuisine": "שיפודים",
+    "location": "שכונת התקווה",
+    "videoUrl": "https://www.youtube.com/watch?v=O_ZvcrnLQPg",
+    "isReview": true
+  },
+  {
+    "videoId": "R2wmBYW2zew",
+    "title": "��� ������ -  ���� �� ������ ����������, ��� ����� �������",
+    "restaurantName": "סגב אקספרס",
+    "grade": 6.5,
+    "cuisine": "Italian",
+    "location": "רמת החייל",
+    "videoUrl": "https://www.youtube.com/watch?v=R2wmBYW2zew",
+    "isReview": true
+  },
+  {
+    "videoId": "S3FsFoXhVt8",
+    "title": "This is not Sicily - the Italy that pleasantly surprised me",
+    "restaurantName": "אוליורי",
+    "grade": 8.5,
+    "cuisine": "Sicilian",
+    "location": "Tel Aviv",
+    "videoUrl": "https://www.youtube.com/watch?v=S3FsFoXhVt8",
+    "isReview": true
+  },
+  {
+    "videoId": "SKkyIVEyENs",
+    "title": "����� �� ���� ������ ��������� ������",
+    "restaurantName": "שוגיה",
+    "grade": 6.5,
+    "cuisine": "שיפודים",
+    "location": "שוק לוינסקי",
+    "videoUrl": "https://www.youtube.com/watch?v=SKkyIVEyENs",
+    "isReview": true
+  },
+  {
+    "videoId": "STXrT_3rJWU",
+    "title": "A neighborhood or a wedding at the old Bernard restaurant",
+    "restaurantName": "ברנרד",
+    "grade": 7,
+    "cuisine": null,
+    "location": "ראשון לציון",
+    "videoUrl": "https://www.youtube.com/watch?v=STXrT_3rJWU",
+    "isReview": true
+  },
+  {
+    "videoId": "Ul7gpvSRTyc",
+    "title": "\"The Little One\" - surprised both with the food and the price",
+    "restaurantName": "רע קטן",
+    "grade": 7.5,
+    "cuisine": null,
+    "location": "שוק לווינסקי",
+    "videoUrl": "https://www.youtube.com/watch?v=Ul7gpvSRTyc",
+    "isReview": true
+  },
+  {
+    "videoId": "vBcQZo8tppM",
+    "title": "The Seagull Restaurant - This is the waiter who gets a 10 on the index",
+    "restaurantName": "השחף",
+    "grade": 6,
+    "cuisine": "seafood",
+    "location": "תל אביב",
+    "videoUrl": "https://www.youtube.com/watch?v=vBcQZo8tppM",
+    "isReview": true
+  },
+  {
+    "videoId": "uS6fKYLtdBU",
+    "title": "\"America Burgers\" - Finally an outstanding burger",
+    "restaurantName": "אמריקה בורגרז",
+    "grade": 8,
+    "cuisine": "המבורגר",
+    "location": "תל אביב",
+    "videoUrl": "https://www.youtube.com/watch?v=uS6fKYLtdBU",
+    "isReview": true
+  },
+  {
+    "videoId": "UX_qkUwcywY",
+    "title": "Afaim Farm in Jerusalem - Delicious and Generous - at a Fair Price",
+    "restaurantName": "משק אפאים",
+    "grade": 7.5,
+    "cuisine": "גבינות וארוחות בוקר",
+    "location": "ירושלים",
+    "videoUrl": "https://www.youtube.com/watch?v=UX_qkUwcywY",
+    "isReview": true
+  },
+  {
+    "videoId": "vTwAymOHxA8",
+    "title": "From Lego and a friend - the chef deserves Michelin stars",
+    "restaurantName": "מלגו ומלבר",
+    "grade": 9,
+    "cuisine": null,
+    "location": null,
+    "videoUrl": "https://www.youtube.com/watch?v=vTwAymOHxA8",
+    "isReview": true
+  },
+  {
+    "videoId": "W0S3HeEg8cg",
+    "title": "WAT SANG - This is the Japanese secret you should keep!!!",
+    "restaurantName": "ואט סאנג",
+    "grade": 8.5,
+    "cuisine": "יפנית",
+    "location": null,
+    "videoUrl": "https://www.youtube.com/watch?v=W0S3HeEg8cg",
+    "isReview": true
+  },
+  {
+    "videoId": "w8VAE9Gf4A4",
+    "title": "How much is the Jerusalem Japanese index?",
+    "restaurantName": "אזיה",
+    "grade": 7,
+    "cuisine": "אסייתי",
+    "location": "ירושלים",
+    "videoUrl": "https://www.youtube.com/watch?v=w8VAE9Gf4A4",
+    "isReview": true
+  },
+  {
+    "videoId": "xDomD5d85cI",
+    "title": "A worker in the village - a winning score in the index with the guest: Shahar Hayon",
+    "restaurantName": "עובד בכפר",
+    "grade": 8.5,
+    "cuisine": "בשר",
+    "location": null,
+    "videoUrl": "https://www.youtube.com/watch?v=xDomD5d85cI",
+    "isReview": true
+  },
+  {
+    "videoId": "zO6wiqZze4c",
+    "title": "You won't believe where the outstanding Italian is hiding. Guest: Shlomo Maoz",
+    "restaurantName": "האיטלקי הנסתר",
+    "grade": 8.5,
+    "cuisine": "איטלקי",
+    "location": null,
+    "videoUrl": "https://www.youtube.com/watch?v=zO6wiqZze4c",
+    "isReview": true
+  }
+]
